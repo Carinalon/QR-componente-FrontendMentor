@@ -38,6 +38,7 @@ h1{
     padding: 16px;
     border-radius: 10px;
     text-align: center;
+    align-self: center;
 }
 .qr-image{
   border-radius: 10px;
@@ -51,7 +52,7 @@ h1{
   font-weight: 400;
   line-height: 21px;
   color: var(--color-desc);
-  margin: 0px 16px 0 16px;
+  padding: 0px 16px 0px 16px;
 
 }
 
